@@ -6,9 +6,7 @@ I work with
 ![TypeScript](https://camo.githubusercontent.com/bea9f7f9bb8bd1460b2341e8ef2f6ad9c89719e22a94f9e7f290d5fae275d7be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![Node.js](https://camo.githubusercontent.com/3f0f6fcec46b6171f6ce76f6a0c2ed32023d977f4ca8d888c66868b6b817ddf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 > Currently learning React-Native.
